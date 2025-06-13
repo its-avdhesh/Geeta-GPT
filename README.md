@@ -1,4 +1,4 @@
-# GitaGPT
+# GitaGPT ( Avdhesh Bhadoriya, Nikhil Sharma )
 
 An AI-powered application that provides insights and answers questions about the Bhagavad Gita using Google's Gemini AI.
 
